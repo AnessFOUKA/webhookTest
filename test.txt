@@ -1,6 +1,6 @@
 export GITHUB_WEBHOOK_SECRET="mFmYz9rtvku!"
 export REPO_URL="https://github.com/AnessFOUKA/testRepoWebhooks.git"
 export DEPLOY_DIR="../frontend"
-export TARGET_BRANCH="main"
+export TARGET_BRANCH="master"
 export WEBHOOK_PORT="9000"
-node server.js as
+node server.js asd
